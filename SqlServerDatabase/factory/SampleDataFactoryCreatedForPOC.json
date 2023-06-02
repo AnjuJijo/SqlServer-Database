@@ -1,0 +1,9 @@
+{
+	"name": "SampleDataFactoryCreatedForPOC",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0351cdb2-0405-4687-847b-b8daf4c926a9",
+		"tenantId": "2bbc6d9d-1e64-4002-adec-2abfecbdbcc6"
+	}
+}
